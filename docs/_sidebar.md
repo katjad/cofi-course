@@ -3,7 +3,7 @@
 - [Lesson 2](module-02)
 - [Lesson 3](module-03)
 - [Lesson 4](module-04)
-<!--
+<!--   
 - **LMS Links**
   - [![Calendar Icon](https://api.iconify.design/fa6-solid/calendar.svg?height=16&color=%23808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
   - [![Assignments Icon](https://api.iconify.design/fa6-solid/pencil.svg?height=16&color=%23808080)Assignments](https://canvas.sfu.ca/courses/44038/assignments)
